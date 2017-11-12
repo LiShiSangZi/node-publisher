@@ -1,6 +1,6 @@
 {
   "name": "node-publisher",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "app.js",
   "repository": "git@github.com:LiShiSangZi/node-publisher.git",
   "author": "gogocrow <gogocrow@163.com>",
