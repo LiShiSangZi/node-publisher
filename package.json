@@ -5,7 +5,14 @@
   "repository": "git@github.com:LiShiSangZi/node-publisher.git",
   "author": "gogocrow <gogocrow@163.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "migrate": "egg-bin test"
+  },
   "dependencies": {
     "egg": "^1.11.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5"
   }
 }

@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = (app) => {
-  app.all('/hook/merge', 'hook.merge');
+  app.post('/hook/push', 'hook.push');
 };

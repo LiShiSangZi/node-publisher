@@ -1,5 +1,9 @@
 'use strict';
 
-exports.merge = async ctx => {
+exports.push = async ctx => {
+  const request = ctx.request.body;
+
+  console.log(request);
+
   
 };
