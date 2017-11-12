@@ -1,0 +1,11 @@
+{
+  "name": "node-publisher",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:LiShiSangZi/node-publisher.git",
+  "author": "gogocrow <gogocrow@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "egg": "^1.11.0"
+  }
+}
