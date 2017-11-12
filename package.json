@@ -7,12 +7,14 @@
   "license": "MIT",
   "scripts": {
     "dev": "egg-bin dev",
-    "migrate": "egg-bin test"
+    "migrate": "egg-bin test",
+    "release": "standard-version"
   },
   "dependencies": {
     "egg": "^1.11.0"
   },
   "devDependencies": {
-    "egg-bin": "^4.3.5"
+    "egg-bin": "^4.3.5",
+    "standard-version": "^4.2.0"
   }
 }
